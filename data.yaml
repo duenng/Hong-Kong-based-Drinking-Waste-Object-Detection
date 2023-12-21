@@ -1,0 +1,6 @@
+train: /content/train/images
+val: /content/valid/images
+test: /content/test/images
+
+nc: 7
+names: ['clean_aluminium', 'clean_glass', 'clean_plastic', 'dirty_aluminium', 'dirty_glass', 'dirty_plastic', 'paper']
